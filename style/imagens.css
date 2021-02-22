@@ -46,36 +46,15 @@ body {
     border-bottom: 3px solid #8FBCE6;
 }
 
-.group {
-    padding: 150px;
-    padding-top: 0;
-    margin: 150px;
-    margin-bottom: 0;
+#carouselExampleControls {
+    margin-top: 100px; 
 }
 
-.card-deck {
-    margin: 50px;
-    padding: 50px;
-    padding-bottom: 0px;
-}
-
-.card {
-    text-align: center;
-}
-
-.card h5 {
-    font-size: 25px;
-}
-
-.card p {
-    font-size: 20px;
-}
-
-.card-img-top {
-    width: 410px;
-    height: 410px;
+.carousel-item {
+    padding: 100px;
 }
 
 .address {
     text-align: center;
 }
+
